@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/celsiusTable/celsiusTable.iml" filepath="$PROJECT_DIR$/celsiusTable/celsiusTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/priceCalculator/priceCalculator.iml" filepath="$PROJECT_DIR$/priceCalculator/priceCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeTime/primeTime.iml" filepath="$PROJECT_DIR$/primeTime/primeTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/unit06.iml" filepath="$PROJECT_DIR$/.idea/unit06.iml" />
     </modules>
   </component>
